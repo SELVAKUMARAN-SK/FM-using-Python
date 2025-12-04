@@ -53,7 +53,7 @@ Output Waveform
 <img width="1052" height="281" alt="Screenshot 2025-10-23 193204" src="https://github.com/user-attachments/assets/afb9cb96-43d5-4a22-8ce3-227e5cb46464" />-
 
 Tabular Column
-![WhatsApp Image 2025-11-28 at 8 50 16 AM](https://github.com/user-attachments/assets/9b72a011-4b3f-4d77-b485-fc22015c4568)
+![WhatsApp Image 2025-12-04 at 12 02 50 PM](https://github.com/user-attachments/assets/d1128fc1-9404-40f5-a83b-d9e4c426d775)
 
 
 
